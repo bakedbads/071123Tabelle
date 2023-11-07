@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+}
+
+.header {
+    text-align: center;
+    color: green;
+
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    border: black 3px solid;
+}
+
+th, td {
+    border: 1px solid black;
+    width: 50%;
+    height: 1.2rem;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+.number {
+    text-align: right;
+}
+
+.results {
+    font-weight: bold;
+}
